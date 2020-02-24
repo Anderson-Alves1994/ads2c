@@ -1,0 +1,15 @@
+	*Os carros devem ser movido por energia solar.
+	* O sistema de segurança será com cameras externas, leitor de digital, air-bag, as portas só abrirão quando o veículos estiver parado, o carro só poderá ficar retrátil quantos todos os passageiros estiverem com sinto, bancos ejetavéis.
+	* Precisam ser acionado via Aplicativo e precisa ser compativo com todos os sistemas de SmatPhone.
+	* Os carros serão autonomos, com 6 lugares no qual 6 lugares.
+	* Cada Carro poderá ser acionado por apenas um usuario, de cada vez.
+	* Os carros precisam estar no minimo a uma distancia de até 10 KM, para que possa ser acionado pele usuario.
+	* Poderá ter viagens programadas pelo usuario.
+	* Cada viagem terá preços fixos por KM, a cada 5 KM será cobrado 2 Dolares, com um teto de 10 dolares por viagem.
+	* A corrida será paga via aplicativo e aceitará qualquer tipo de cartão de crédito ou débito.
+	* No final o passageiro será avaliado pelo aplicativo
+	* O passageiro também avalia a corrida
+	* Os passageiros poderão levar animais domésticos
+	* A identificação dos passageiros será através de digital cadastrada no aplicativo
+	* Para chamar a corrida para um terceiro a identificação será pela digital de quem fez a chamada e facial para o passageiro. A pessoa que chamar irá mandar uma foto de quem irá fazer a corrida.
+	*Os carros serão limpos após o final de cada corrida automáticamente

@@ -1,0 +1,3 @@
+As linguagens de programação usadas serão Python e C#
+A linguagem Python será usada para gerenciar o aplicativo e para o banco de dados
+A linguagem C# será usada para WebService

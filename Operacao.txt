@@ -1,0 +1,6 @@
+	*Instalação de uma base de operações por estado
+	*Atendimento ao cliente 24 horas
+	*Instalação de servidores para o armazenamento e processamento dos dados
+	*Drones para mapeamento das cidades
+	*Divulgação do aplicativo
+

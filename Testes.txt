@@ -1,0 +1,15 @@
+	*Verificar se os carros estão com energia suficiente para a viagem
+	*Verificar se todos os sistemas de segurança estão funcionando
+	*Verificar se os aplicativos estão acionando apenas um veículo por corrida
+	*Verificar se a corrida não irá ultrapassar o limite de 10 dolares
+	*Verificar se o sistema de avaliação da corrida e passageiros estão adequados
+	*Verificar se os sistemas digitais e faciais estão funcionando
+	*Verificar se os sistemas de pagamento estão funcionando adequadamente
+	*Verificar se o banco de dados estão armazenando os dados corretamente
+	*Verificar o sistema de trafego áereo para não ocorrer colisões
+	*Testar a identificação dos passageiros
+	*Testar se o carro fica retratil
+	*Testar o Wifi
+	*Testar o sistema de viagens programadas
+	*Testar os sistemas de limpeza dos veículos
+	

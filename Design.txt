@@ -1,0 +1,12 @@
+	* Os carros serão conversiveis.
+	* Eles precisam ser confortavel, com arcondicionado, bancos reclinaveis, suporte para utencilios
+	* Todos os carros serão verdes
+	* Os bancos serão de couro
+	* Vidros serão de 360°
+	* A aparencia dos carros será esportiva
+	* O painel será um computador de bordo touch
+	* Atrás dos bancos da frente também terá computador de bordo
+	* O painel solar ficará localizado no capo de cada carro
+	* Bancos reclinavéis
+	* Bancos traseiros adaptadas com compartimento para levar animais
+	* As turbinas para decolagem também serão as rodas dos carros
